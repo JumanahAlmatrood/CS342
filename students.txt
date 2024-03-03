@@ -1,0 +1,4 @@
+tala 10
+shatha 10
+jumanah 10 
+huda 1
